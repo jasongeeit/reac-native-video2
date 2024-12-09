@@ -1,0 +1,4 @@
+Build version:
+Node 12.4.0
+NPM 6.9.0
+React Native 0.59.9
